@@ -1,0 +1,6 @@
+{
+    "host": "bmail.eth",
+    "domain": ["https://bmail.eth/"],
+    "chainId": 11155111,
+    "contractAddress" :"0xD3F301B142Fc912034fd37B00F28616A06bD58BB"
+}

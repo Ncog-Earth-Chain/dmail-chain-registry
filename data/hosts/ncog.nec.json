@@ -1,0 +1,6 @@
+{
+    "host": "ncog.nec",
+    "domain": ["https://web3Emails.com/"],
+    "chainId": 2528,
+    "contractAddress" :"0xA8cdbee89f164cDAa3c17d75b29CeCfe31256880"
+}
